@@ -20,6 +20,6 @@ Here you will find:
 
 Feel free to explore or use the content. If you have any questions or suggestions, please come and find me on the socials via the blog.
 
-**Note:** :warning: For exporting configurations, I will use the great tool from [Micke-K](https://github.com/Micke-K) when possible.
+> **Note:** :warning: For exporting configurations, I will use the great tool from [Micke-K](https://github.com/Micke-K) when possible.
 
 Happy exploring!
